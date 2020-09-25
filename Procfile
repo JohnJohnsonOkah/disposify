@@ -1,1 +1,1 @@
-web: gunicorn disposigy.wsgi
+web: gunicorn disposify.wsgi
